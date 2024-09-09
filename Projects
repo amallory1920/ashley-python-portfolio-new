@@ -1,1 +1,8 @@
+/
+├── index.html
+├── projects/
+│   ├── data-analysis.html
+│   └── web-scraping.html
+├── css/
+│   └── style.css
 
